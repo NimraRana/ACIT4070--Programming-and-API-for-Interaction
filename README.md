@@ -15,6 +15,8 @@ To run this code one needs to have
 2. Xamp control panel
 3. MySQL server (We have used MySQL Workbench 8.0 CE)
 
+One have to download the ZIP file and add it to repository of visual studio and to add sql file "nrails" to the database.
+
 
 ## Implementation
 #### This code is implemented using c#.
